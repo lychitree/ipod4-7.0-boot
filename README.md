@@ -1,6 +1,6 @@
 # ipod4-7.0-boot
 
-This is a script to generate files to boot iPod4,1 running 7.0 (11A465) without the use of python and custom KeysServer with futurerestore.
+This is a script to generate files to boot iPod4,1 running 7.0 (11A465) without the use of python and custom KeysServer with futurerestore. *(This script is for macos only, but can be replicated on linux and even windows.)*
 
 To run the script, run the command `./patch.sh` in Terminal.
 
@@ -28,7 +28,12 @@ Enjoy.
 
 -lychi (2022)
 
-CREDITS:
+
+
+# credits
+
 ih8sn0w and dora2iOS for iBoot32Patcher
+
 planetbeing for xpwn/xpwntool
+
 tihmstar for partialZipBrowser
